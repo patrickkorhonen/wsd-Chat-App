@@ -1,4 +1,4 @@
-import postgres from "../deps.js";
+import {postgres} from "../deps.js";
 
 const sql = postgres({});
 
